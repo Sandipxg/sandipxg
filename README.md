@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Sandip Godhani
+# Heyyy 👋, I'm Sandip 
 
 ### 🚀 Backend Developer | Java Enthusiast | Web Developer | AI/ML Explorer
 
@@ -108,7 +108,6 @@ Smart Link Intelligence
 mrsandipgodhani@gmail.com  
 
 💼 LinkedIn  
-(Add your LinkedIn profile)
 
 🌐 Portfolio  
 (Currently building it 🚀)
