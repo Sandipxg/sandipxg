@@ -122,16 +122,23 @@ Smart Link Intelligence
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Connect With Me
 
-📧 Email  
-mrsandipgodhani@gmail.com  
+<p align="left">
 
-💼 LinkedIn  
-(Add your LinkedIn here)
+<a href="mailto:mrsandipgodhani@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🌐 Portfolio  
-(Currently in development)
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming Soon-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
 
 ---
 
