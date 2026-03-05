@@ -102,43 +102,16 @@ Smart Link Intelligence
 
 ---
 
-# 🏆 GitHub Trophies
+## 🤝 Let's Build Something Together
 
-<p align="center">
+📧 Email  
+mrsandipgodhani@gmail.com  
 
-<img src="https://github-profile-trophy.vercel.app/?username=sandipxg&theme=tokyonight&no-frame=true&row=1&column=6" />
+💼 LinkedIn  
+(Add your LinkedIn profile)
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sandipxg/sandipxg/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="mailto:mrsandipgodhani@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming Soon-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+🌐 Portfolio  
+(Currently building it 🚀)
 
 ---
 
