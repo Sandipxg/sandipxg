@@ -7,10 +7,6 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0ea5e9?style=for-the-badge)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsandipgodhani@gmail.com)
-
 </div>
 
 ---
@@ -207,7 +203,7 @@ More than a URL shortener—an intelligent routing engine that classifies visito
 # 🤝 Let's Connect
 
 - 📧 **Email:** mrsandipgodhani@gmail.com
-- 💼 **LinkedIn:** YOUR_LINKEDIN
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sandip-godhani-836294311/
 - 🌐 **Portfolio:** Coming Soon 🚀
 
 ---
