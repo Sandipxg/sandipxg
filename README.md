@@ -13,21 +13,19 @@
 
 # 👨🏻‍💻 About Me
 
-I'm a **Computer Engineering student** from Ahmedabad, India, passionate about building scalable backend systems and solving real-world engineering problems.
+Hi, I'm Sandip 👋
 
-Over the past year, I've shifted from building simple web applications to understanding how production software actually works—from **real-time communication** and **offline-first architectures** to **upload streaming**, **observability**, and **system design**.
+I spend more time debugging my code than writing it... but somehow both are equally fun.
 
-I enjoy learning technologies from first principles instead of treating libraries as black boxes.
-
+Currently obsessed with building backend systems, breaking things on purpose, and figuring out how they actually work under the hood.
 ---
 
 # 🚀 Currently Working On
 
-- 💬 Production-grade Real-Time Chat Application
-- ⚡ Backend Architecture & System Design
-- ☕ Java & Spring Boot
-- 📦 Scalable File Upload Architectures
-- 🌐 Open Source Contributions
+- 💻 Building production-grade web applications with the MERN stack
+- ⚙️ Designing scalable backend systems and architectures
+- 🏗️ Learning System Design and Software Architecture
+- 🚀 Writing clean, maintainable, and production-ready code
 
 ---
 
