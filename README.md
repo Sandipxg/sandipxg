@@ -70,73 +70,104 @@ I enjoy learning technologies from first principles instead of treating librarie
 ---
 
 # 🚀 Featured Projects
+<table>
+<tr>
 
-## 💬 Real-Time Chat Application
+<td width="50%" valign="top">
 
-A production-focused messaging platform built while learning how modern chat systems work under the hood.
+## 💬 Real-Time Chat App
 
-### Highlights
+> *Production-ready Messaging Platform*
 
-- Real-time messaging using Socket.IO
-- Presence & Last Seen
-- Read Receipts
-- Optimistic UI
-- File Uploads
-- Upload Streaming
-- Cloudinary Integration
-- Pagination
-- Conversation Architecture
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Coming_Soon-0ea5e9?style=for-the-badge)](#)
+[![Repository](https://img.shields.io/badge/📦_Repository-GitHub-181717?style=for-the-badge&logo=github)](YOUR_REPO)
 
-**Tech**
+A modern real-time messaging application built while learning how production chat systems work under the hood.
 
-`React` • `Node.js` • `Express` • `MongoDB` • `Socket.IO` • `Cloudinary`
+### Key Features
 
----
+- 💬 Real-time messaging
+- 🟢 Online Presence
+- 👀 Read Receipts
+- ⚡ Optimistic UI
+- 📂 File Uploads
+- ☁️ Cloudinary
+- 🌊 Upload Streaming
+- 📄 Pagination
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat)
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 📓 MyJournalApp
 
-An Offline-First Progressive Web Application that continues working even without internet.
+> *Offline-first Progressive Web App*
 
-### Highlights
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-10b981?style=for-the-badge)](YOUR_LIVE)
+[![Repository](https://img.shields.io/badge/📦_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sandipxg/MyJournalApp)
 
-- Offline-first Architecture
-- IndexedDB
-- Service Workers
-- Background Sync
-- Push Notifications
-- Better Auth
-- Docker Deployment
+A personal journaling application designed to work seamlessly even without an internet connection.
 
-**Tech**
+### Key Features
 
-`React` • `Express` • `MongoDB` • `IndexedDB` • `Service Workers`
+- 📱 Installable PWA
+- 📦 IndexedDB
+- 🔄 Background Sync
+- 🔔 Push Notifications
+- ⚡ Service Workers
+- 🔐 Better Auth
+- 🐳 Docker
 
----
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
 
 ## 🔗 Smart Link Intelligence
 
-An intelligent URL routing platform that classifies visitors and redirects them dynamically.
+> *Behavior-aware URL Routing Platform*
 
-### Highlights
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-22c55e?style=for-the-badge)](YOUR_LINK)
+[![Repository](https://img.shields.io/badge/📦_Repository-GitHub-181717?style=for-the-badge&logo=github)](YOUR_REPO)
 
-- Smart URL Routing
-- Visitor Classification
-- Analytics Dashboard
-- Security & Rate Limiting
+More than a URL shortener—an intelligent routing engine that classifies visitors based on behavior and redirects them dynamically while collecting detailed analytics.
 
----
+### Key Features
 
-# 🌱 What I'm Learning
+- 🧠 Behavior-based Routing
+- 📊 Analytics Dashboard
+- 🌍 Geo & Device Tracking
+- 🛡️ Rate Limiting
+- 🤖 AI Chatbot
+- 📈 CSV Export
 
-- System Design
-- Distributed Systems
-- Backend Performance
-- Database Internals
-- Production Monitoring
-- Observability
-- Java Spring Ecosystem
+**Tech Stack**
 
----
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
+
+</td>
+
+</tr>
+</table>
 
 # 🌍 Community
 
