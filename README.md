@@ -169,26 +169,12 @@ More than a URL shortener—an intelligent routing engine that classifies visito
 </tr>
 </table>
 
-# 🌍 Community
+# 🌍 Community & Leadership
 
-### 👥 Binary Brains
-
-Community Lead of a student developer community with **1100+ members**.
-
-Organized:
-
-- AI Workshops
-- Technical Talks
-- Founder Sessions
-- Community Events
-
----
-
-### 🏆 GeeksforGeeks Campus Mantri
-
-Working with the GeeksforGeeks Campus Team to organize technical initiatives, connect students with learning opportunities, and help grow the developer community at my university.
-
----
+- 🚀 **Founder, Binary Brains** — Built a **1,200+ member** student tech community.
+- 🤖 **Hosted an AI Workshop** with **60+ registrations**, along with multiple tech talks and events.
+- 🏆 **GeeksforGeeks Campus Mantri** —  technical initiatives on campus.
+- 🤝 **Community Volunteer** — Supporting workshops, hackathons, and developer events.
 
 # 📊 GitHub Analytics
 
