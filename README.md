@@ -7,12 +7,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%26+Product+Builder;Zero-Trust+Web3+%26+Cryptographic+Architectures;Real-Time+E2EE+%26+WebRTC+Communications;Offline-First+Progressive+Web+Apps;Founder+%40+BinaryBrains+(1%2C200%2B+Developers);Building+Reliable+Systems+That+Scale" alt="Typing SVG" />
 
 <br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sandip.codes-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sandip.codes)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-10b981?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://sandip.codes/resume)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandip_Godhani-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-godhani-836294311/)
-[![Email](https://img.shields.io/badge/Email-mrsandipgodhani%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mrsandipgodhani@gmail.com&su=Project%20Inquiry%20-%20Sandip%27s%20Profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Sandipxg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandipxg)
+[![Portfolio : sandip.codes](https://img.shields.io/badge/Portfolio-sandip.codes-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sandip.codes)
+
+<br/>
 
 </div>
 
@@ -22,14 +21,11 @@
 
 Hi, I'm **Sandip Godhani** 👋
 
-I'm a **Full-Stack Engineer and Product Builder** building high-performance web applications, developer tools, and Web3 products. Passionate about clean architecture, lightning-fast interfaces, and scalable backend systems that people genuinely enjoy using.
+Computer Engineering student passionate about building scalable, real-world applications. I enjoy turning complex ideas into practical solutions through clean code and thoughtful system design. Currently focused on full-stack development, real-time systems, blockchain and Web3. Actively building projects like **ChatApp** (E2EE messaging) and **SafeX** (crypto wallet), while contributing to open source and exploring new technologies.
 
-- 🔭 **Current Focus**: Designing zero-trust cryptographic vaults, real-time communication engines, and resilient distributed backends.
-- 💼 **Experience**: Software Developer Intern at [Tezi App](https://teziapp.com), shipping production mobile applications ([HelioCoach](https://heliocoach.com/)) with Flutter and strict peer-reviewed workflows.
-- 🎓 **Education**: B.Tech in Computer Science Engineering (3rd Year) @ LJIET.
-- 💡 **Engineering Mantras**:
-  > *"A keyboard teaches you how to build. A stage teaches you how to explain why it matters."*  
-  > *"Code isn't finished until you can explain it."*
+- 🎓 **Education**: **B.E. in Computer Engineering** — LJ Institute of Engineering and Technology (LJIET), Ahmedabad *(Expected: 2028)*
+  - 📈 **Academic Performance**: **Semester 3 (SPI): 8.75** — **Semester 4 (SPI): 8.40**
+  - 🏫 **Higher Secondary Education (Class 12th)**: CBSE *(JEE: 86.4 Percentile)*
 
 ---
 
@@ -37,14 +33,13 @@ I'm a **Full-Stack Engineer and Product Builder** building high-performance web 
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
-| **Backend & Real-Time** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) |
-| **Web3 & Cryptography** | ![Viem](https://img.shields.io/badge/Viem-1E1E1E?style=flat-square) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white) ![ECDH / AES-GCM](https://img.shields.io/badge/Web_Crypto_API-0284C7?style=flat-square) ![Argon2id](https://img.shields.io/badge/Argon2id_KDF-4F46E5?style=flat-square) ![BIP--39/44/84](https://img.shields.io/badge/BIP--39_/_44_/_84-F7931A?style=flat-square&logo=bitcoin&logoColor=white) |
-| **Databases & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![IndexedDB](https://img.shields.io/badge/IndexedDB-5A0FC8?style=flat-square) |
-| **DevOps & Tooling** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Programming Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity_(Basics)-363636?style=flat-square&logo=solidity&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Tools & Libraries** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![Better Auth](https://img.shields.io/badge/Better_Auth-0284C7?style=flat-square) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square) ![oRPC](https://img.shields.io/badge/oRPC-6366F1?style=flat-square) ![viem](https://img.shields.io/badge/viem-1E1E1E?style=flat-square) ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white) |
 
 </div>
 
@@ -73,7 +68,7 @@ An enterprise-grade, 100% non-custodial multi-chain crypto wallet built from fun
 - **Uniswap V2 AMM Swaps**: Constant-product routing (`x · y = k`) with slippage bounds.
 - **Resilient Multi-Provider RPC**: Zero-downtime automated failover across public RPC nodes.
 
-**Stack**: `TypeScript` `Next.js` `Viem` `Argon2id` `Tailwind CSS`
+**Stack**: `React` `Node.js` `TypeScript` `PostgreSQL` `viem` `Redis` `Tailwind CSS`
 
 </td>
 
@@ -95,7 +90,7 @@ A production-ready real-time communication platform engineered for end-to-end pr
 - **30-Day Session Persistence**: Better Auth configured with Partitioned cookies and instant localStorage cold start.
 - **Offline Resilience**: IndexedDB JWK serialization and Service Worker message queuing.
 
-**Stack**: `React 18` `Vite` `Node.js` `Express` `MongoDB` `Socket.IO` `WebRTC`
+**Stack**: `React` `Node.js` `TypeScript` `Socket.IO` `MongoDB` `WebRTC`
 
 </td>
 
@@ -118,9 +113,9 @@ A personal journaling PWA designed to work effortlessly without an internet conn
 - **Temporary ID Resolution**: Seamlessly reconciles client-side temporary keys into server MongoDB ObjectIDs with zero UI flicker.
 - **Anti-Lockout Cache Handling**: Custom Network-First SWR pipeline for documents preventing blank screens on new bundle releases.
 - **Dynamic Chunk Recovery**: React ErrorBoundary catching chunk load failures on offline navigation.
-- **Push Notifications & Reminders**: Native background Web Push and automated reminder notifications.
+- **Push Notifications & Reminders**: Native background Web Push (VAPID) and automated reminder notifications via Node-Cron.
 
-**Stack**: `React` `Express` `MongoDB` `PWA` `Service Workers` `Docker`
+**Stack**: `React` `Node.js` `MongoDB` `IndexedDB` `Service Workers` `Docker`
 
 </td>
 
@@ -131,7 +126,6 @@ A personal journaling PWA designed to work effortlessly without an internet conn
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-10b981?style=for-the-badge)](https://smartlinkintelligence.pythonanywhere.com/)
 [![Case Study](https://img.shields.io/badge/📑_Case_Study-sandip.codes-0ea5e9?style=for-the-badge)](https://sandip.codes/projects/smart-link-intelligence)
-[![Conference](https://img.shields.io/badge/🎤_ICRAET-Presented-8b5cf6?style=for-the-badge)](#-beyond-the-code--leadership)
 
 An intelligent traffic classification and routing engine that dynamically adapts destination endpoints based on visitor behavior and device attributes.
 
@@ -139,7 +133,7 @@ An intelligent traffic classification and routing engine that dynamically adapts
 - **Dynamic Traffic Routing**: Heuristic visitor classification driving personalized redirect flows.
 - **Telemetry & Analytics**: Deep breakdown of referrers, device footprints, geographies, and timestamps.
 - **Resilience & Security**: IP-based rate limiting, bot protection, and automated traffic shaping.
-- **Academic Recognition**: Accepted and presented at the ICRAET International Conference.
+- **Interactive Dashboards**: Comprehensive analytics tracking clicks, devices, browsers, and conversions.
 
 **Stack**: `Python` `Flask` `SQLite` `REST APIs` `Analytics`
 
@@ -152,11 +146,10 @@ An intelligent traffic classification and routing engine that dynamically adapts
 
 ### 💼 Experience & Milestones
 
-- **Software Developer Intern** — [Tezi App](https://teziapp.com)
-  - Built and maintained production features for [HelioCoach](https://heliocoach.com/) using **Flutter**.
-  - Embraced real-world Git workflows: trunk-based & feature branching, peer PR reviews, merge conflict resolutions, and defense of architectural decisions.
-  - Transitioned from code generation to deliberate, scalable engineering design.
-- **B.Tech Computer Science Engineering** — LJIET *(3rd Year / SEM 5)*
+- **Ex-Software Engineer Intern** — [Tezi App](https://teziapp.com) *(Feb 2026 – Aug 2026)*
+  - Worked on [HelioCoach](https://heliocoach.com/), a Flutter-based supplement tracker app that helps users track daily supplement intake and build healthy habits.
+  - Contributed to full-stack feature development using **Flutter**, API integration, state management, and UI/UX improvements across the application.
+  - Embraced real-world Git workflows: feature branches, PR reviews, merge conflict resolutions, and active participation in architectural and product discussions.
 
 ---
 
@@ -164,31 +157,13 @@ An intelligent traffic classification and routing engine that dynamically adapts
 
 > *"Things I built outside classrooms and Git commits."*
 
-- 👨‍💻 **Founder, BinaryBrains @ LJIET**: Founded a thriving student tech community growing to **1,200+ developers** — broke WhatsApp's 1,024 member limit and expanded across multiple sub-groups.
-- 📢 **Telegram Community Scaling**: Built and moderated Telegram networks to **4,000+ subscribers** across 150+ federated discussion groups with automated cross-network moderation.
+- 🏆 **Campus Mantri — GeeksforGeeks** *(2026)*: Selected as Campus Mantri among **10,000+ applicants** from 3,000+ colleges across India.
+- 👨‍💻 **Founder — BinaryBrains** *(2025 – Present)*: Founded a thriving student tech community growing to **1,200+ members** at LJIET. Organized tech events, workshops, and learning initiatives.
+- 📢 **Telegram Community Scaling**: Built and managed multiple channels and networks to **4,000+ subscribers** across 150+ federated discussion groups with automated cross-network moderation.
 - 🎤 **Organized Sold-Out AI Workshop**: Spearheaded a paid, hands-on workshop in collaboration with ByteClub; reached 100% capacity with **80 enthusiastic attendees** exploring prompt engineering and rapid prototyping.
 - 🌍 **ICRAET International Conference**: Presented Smart Link Intelligence architectural research before international engineering and academic delegates.
 - 🚀 **Innovation Village Pitch**: Delivered live technical presentations and defended architectural decisions to **50+ startup founders** and university visitors.
-- 🤝 **Community Volunteer**: Actively supported events with Java User Group Ahmedabad and regional developer meetups.
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandipxg&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117" alt="Sandip's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipxg&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sandipxg&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&background=0D1117" alt="Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandipxg&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=38BDF8&bg_color=0D1117" alt="Activity Graph" width="95%" />
-
-</div>
+- 🤝 **Volunteer — Tech Communities, Ahmedabad** *(2025 – Present)*: Actively contributed to local tech communities, including Java User Group Ahmedabad, helping with event organization and developer mentoring.
 
 ---
 
@@ -199,7 +174,7 @@ An intelligent traffic classification and routing engine that dynamically adapts
 [![Portfolio](https://img.shields.io/badge/Portfolio-sandip.codes-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sandip.codes)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-10b981?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://sandip.codes/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandip_Godhani-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-godhani-836294311/)
-[![Email](https://img.shields.io/badge/Email-mrsandipgodhani%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mrsandipgodhani@gmail.com&su=Project%20Inquiry%20-%20Sandip%27s%20Portfolio)
+[![Email](https://img.shields.io/badge/Email-mrsandipgodhani%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mrsandipgodhani@gmail.com&su=Project%20Inquiry%20-%20Sandip%27s%20Profile)
 
 <br/>
 
